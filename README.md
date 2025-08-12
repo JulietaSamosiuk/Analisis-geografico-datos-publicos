@@ -81,13 +81,13 @@ pip install pandas duckdb matplotlib seaborn
 📂 TablasModelo/
    ├── Carpeta inicialmente vacía. Se completa automáticamente al ejecutar `Código.py` con los datasets procesados y normalizados, listos para análisis y consultas SQL.
 📂 TablasOriginales/
-   ├── Archivos de datos crudos (población, EE, BP, provincias, etc.)
+   ├── Archivos de datos crudos.
 📄 Código.py
-   ├── Script principal: limpieza de datos, consultas SQL y generación de visualizaciones
+   ├── Script principal: limpieza de datos, consultas SQL y generación de visualizaciones.
 📄 Enunciado.pdf
-   ├── Enunciado del trabajo práctico con la descripción y objetivo del proyecto
+   ├── Enunciado del trabajo práctico con la descripción y objetivo del proyecto.
 📄 Informe.pdf
-   ├── Informe del trabajo práctico con explicación detallada del proceso y resultados
+   ├── Informe del trabajo práctico con explicación detallada del proceso y resultados.
 📄 README.md
-   ├── Descripción general del proyecto y guía de uso
+   ├── Descripción general del proyecto, instrucciones de instalación, ejecución y resultados destacados.
 ```
