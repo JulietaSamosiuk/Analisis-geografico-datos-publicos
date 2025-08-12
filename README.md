@@ -78,12 +78,14 @@ pip install pandas duckdb matplotlib seaborn
 ## Estructura del repositorio
 
 ```plaintext
-📂 TablasOriginales/
-   ├── Archivos de datos crudos (población, EE, BP, provincias, etc.)
 📂 TablasModelo/
    ├── Carpeta inicialmente vacía. Se completa automáticamente al ejecutar `Código.py` con los datasets procesados y normalizados, listos para análisis y consultas SQL.
+📂 TablasOriginales/
+   ├── Archivos de datos crudos (población, EE, BP, provincias, etc.)
 📄 Código.py
    ├── Script principal: limpieza de datos, consultas SQL y generación de visualizaciones
+📄 Enunciado.pdf
+   ├── Enunciado del trabajo práctico con la descripción y objetivo del proyecto
 📄 Informe.pdf
    ├── Informe del trabajo práctico con explicación detallada del proceso y resultados
 📄 README.md
